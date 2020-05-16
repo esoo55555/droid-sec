@@ -11,7 +11,7 @@ C='\033[1;36m'
 W='\033[1;37m'
 
 #12###	            banner
-system('termux-open https://www.youtube.com/channel/UCqxMlxWaFTGypJq6nU7mGjA')
+system('termux-open https://m.youtube.com/channel/UC-VPjs72wa3crNX-bsLWdnA')
 system('clear')
 print (R +"""
 ____     ___            ____   ___                      
